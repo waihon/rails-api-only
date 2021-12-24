@@ -21,4 +21,6 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* Terminal commands
+  * `rails new rails-api-only --api-only --skip-test`
+  * `rvm use 2.7.4@rails6.1 --ruby-version`
